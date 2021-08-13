@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "homework #10",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junioromizhquiri/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junioromizhquiri/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Junioromizhquiri/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
+}
